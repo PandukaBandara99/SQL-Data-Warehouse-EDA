@@ -18,7 +18,7 @@ It follows a clean multi-layer architecture — **Bronze, Silver, and Gold** —
 ## **Architecture**
 
 The project follows a **multi-schema Lakehouse-style architecture** inside SQL Server.
-![Project Architecture](.assets/SQL (3000 x 1800 px).png)
+![alt text](<data-warehouse-arch.png.>)
 Each layer is isolated for clarity, traceability, and reusability.
 
 ---
